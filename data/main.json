@@ -1,0 +1,245 @@
+{
+    "name": "Picks Challenge Vol4 Tree Map",
+    "children": [
+        {
+            "name": "",
+             "value": "1",
+            "children": [{
+                    "name": "AAPL",
+                    "category": "9",
+                    "value": "0.255"
+                },
+
+                {
+                    "name": "AVGO",
+                    "category": "11",
+                    "value": "2.374"
+                },
+                {
+                    "name": "CAT",
+                    "category": "3",
+                    "value": "1.737"
+                },
+               
+                {
+                    "name": "CLS",
+                    "category": "8",
+                    "value": "4.721"
+                },
+             
+                {
+                    "name": "CRWD",
+                    "category": "17",
+                    "value": "1.249"
+                },
+                {
+                    "name": "DASH",
+                    "category": "14",
+                    "value": "1.174"
+                },
+             
+                {
+                    "name": "GEV",
+                    "category": "2",
+                    "value": "2.407"
+                },
+                {
+                    "name": "HIMS",
+                    "category": "1",
+                    "value": "0.851"
+                },
+                {
+                    "name": "HOOD",
+                    "category": "7",
+                    "value": "6.945"
+                },
+                {
+                    "name": "IONQ",
+                    "category": "18",
+                    "value": "4.971"
+                },
+               
+                {
+                    "name": "META",
+                    "category": "4",
+                    "value": "1.370"
+                },
+                {
+                    "name": "MSTR",
+                    "category": "19",
+                    "value": "1.715"
+                },
+                {
+                    "name": "NFLX",
+                    "category": "20",
+                    "value": "2.249"
+                },
+                {
+                    "name": "NOC",
+                    "category": "8",
+                    "value": "0.273"
+                },
+                {
+                    "name": "NVDA",
+                    "category": "21",
+                    "value": "5.907"
+                },
+                {
+                    "name": "OKLO",
+                    "category": "22",
+                    "value": "15.236"
+                },
+                {
+                    "name": "PANW",
+                    "category": "3",
+                    "value": "0.048"
+                },
+                {
+                    "name": "PINS",
+                    "category": "14",
+                    "value": "2.240"
+                },
+                {
+                    "name": "PLTR",
+                    "category": "24",
+                    "value": "6.677"
+                },
+                {
+                    "name": "QBTS",
+                    "category": "6",
+                    "value": "5.905"
+                },
+                {
+                    "name": "QSI",
+                    "category": "14",
+                    "value": "2.607"
+                },
+                {
+                    "name": "QUBT",
+                    "category": "15",
+                    "value": "8.103"
+                },
+                {
+                    "name": "RBLX",
+                    "category": "27",
+                    "value": "6.006"
+                },
+                {
+                    "name": "RGTI",
+                    "category": "12",
+                    "value": "1.112"
+                },
+                {
+                    "name": "RIOT",
+                    "category": "13",
+                    "value": "3.360"
+                },
+                {
+                    "name": "RKLB",
+                    "category": "10",
+                    "value": "4.681"
+                },
+                {
+                    "name": "RKT",
+                    "category": "14",
+                    "value": "0.719"
+                },
+                {
+                    "name": "RTX",
+                    "category": "8",
+                    "value": "0.832"
+                },
+                {
+                    "name": "SMCI",
+                    "category": "25",
+                    "value": "6.253"
+                },
+                {
+                    "name": "SPOT",
+                    "category": "23",
+                    "value": "0.822"
+                },
+                
+                {
+                    "name": "TSLA",
+                    "category": "26",
+                    "value": "1.956"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [{
+                    "name": "BKCH",
+                    "category": "16",
+                    "value": "3.300"
+                },
+                {
+                    "name": "BOTZ",
+                    "category": "16",
+                    "value": "0.662"
+                },
+                {
+                    "name": "EEM",
+                    "category": "5",
+                    "value": "0.395"
+                },
+                {
+                    "name": "EPI",
+                    "category": "5",
+                    "value": "0.106"
+                },
+                {
+                    "name": "FXI",
+                    "category": "1",
+                    "value": "0.313"
+                },
+                {
+                    "name": "GLD",
+                    "category": "28",
+                    "value": "0.202"
+                },
+                {
+                    "name": "NVDL",
+                    "category": "4",
+                    "value": "6.692"
+                },
+                {
+                    "name": "SOXL",
+                    "category": "11",
+                    "value": "7.121"
+                },
+                {
+                    "name": "TQQQ",
+                    "category": "29",
+                    "value": "8.578"
+                },
+                {
+                    "name": "TSLL",
+                    "category": "30",
+                    "value": "1.668"
+                },
+                {
+                    "name": "VDE",
+                    "category": "3",
+                    "value": "0.693"
+                },
+                {
+                    "name": "VEA",
+                    "category": "3",
+                    "value": "0.367"
+                },
+                {
+                    "name": "VWO",
+                    "category": "31",
+                    "value": "0.753"
+                },
+                {
+                    "name": "YINN",
+                    "category": "5",
+                    "value": "0.932"
+                }
+            ]
+        }
+    ]
+}
