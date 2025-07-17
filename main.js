@@ -511,14 +511,14 @@ gradient15.append('stop')
     const elementsPerRow = Math.floor(width / rectHSpacing);
 
     const legendItem = legend.selectAll('g')
-                     // ★コメントアウトカテゴリ？  .data(categories)
-                     //   .enter()
-                     //   .append('g')
-                      //  .attr('transform', (d, i) => {
-                     //     return (
-                      //      'translate(' + (i % elementsPerRow) * rectHSpacing + ', ' +
-                      //      (Math.floor(i / elementsPerRow) * rectSize + rectVSpacing *
-                     //       Math.floor(i / elementsPerRow)) + ')'
+                      .data(categories)
+                       .enter()
+                       .append('g')
+                       .attr('transform', (d, i) => {
+                         return (
+                           'translate(' + (i % elementsPerRow) * rectHSpacing + ', ' +
+                            (Math.floor(i / elementsPerRow) * rectSize + rectVSpacing *
+                            Math.floor(i / elementsPerRow)) + ')'
                           )
                         });
 
